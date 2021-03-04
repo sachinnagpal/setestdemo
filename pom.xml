@@ -4,7 +4,7 @@
 
   <groupId>io.github.sachinnagpal</groupId>
   <artifactId>se-test-demo</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
   <packaging>jar</packaging>
   <name>se-test-demo</name>
   <url>https://github.com/sachinnagpal/setestdemo</url>
@@ -23,7 +23,7 @@
     <connection>scm:git:git@github.com:sachinnagpal/setestdemo.git</connection>
     <developerConnection>scm:git:git@github.com:sachinnagpal/setestdemo.git</developerConnection>
     <url>https://github.com/sachinnagpal/setestdemo/tree/master</url>
-    <tag>se-test-demo-1.2</tag>
+    <tag>se-test-demo-1.4</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
